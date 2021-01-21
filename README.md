@@ -1,7 +1,7 @@
 # WebScraper
 This project was done to learn how a webscraper can be created from scratch. 
 
-Tools used : Selenium Webdricer, ChromeDriver, Beautiful Soup, pandas, numpy
+Tools used : Selenium Webdriver, ChromeDriver, Beautiful Soup, pandas, numpy
 
 ## IMDB + Rottentomatoes movie database scraper
 Fetches -
